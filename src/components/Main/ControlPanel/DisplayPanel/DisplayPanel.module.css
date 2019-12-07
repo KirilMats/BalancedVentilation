@@ -1,0 +1,29 @@
+.displayPanelWrap {
+    width: 80%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+@media (max-width: 1200px) {
+    .displayPanelWrap {
+        justify-content: space-between;
+    }
+}
+
+@media (max-width: 992px) {
+
+}
+
+@media (max-width: 768px) {
+
+}
+
+@media (max-width: 576px) {
+    .displayPanelWrap {
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+    }
+}

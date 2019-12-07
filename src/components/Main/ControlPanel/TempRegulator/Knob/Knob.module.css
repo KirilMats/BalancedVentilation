@@ -1,0 +1,59 @@
+.knobWrap {
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-between;
+    position: relative;
+}
+
+.tempValue{
+    position: absolute;
+    font-size: 56px;
+    text-align: center;
+    color: #509eec;
+    top: 40%;
+    left: 40%;
+    width: 100px;
+    height: 8px;
+    z-index: 1;
+}
+
+.knob {
+    display: flex;
+    position: relative;
+}
+.knob .ticks {
+    position: absolute;
+}
+.knob .ticks .tick {
+    position: absolute;
+    background: #343755;
+    box-shadow: inset 0 0 0 0 black;
+    width: 3px;
+    transition: box-shadow 0.5s;
+}
+.knob .ticks .tick.active {
+    box-shadow: inset 0 0 5px 2px #509eec, 0 0 0 1px #369;
+}
+.knob.outer {
+    border-radius: 50%;
+    border-bottom: 5px solid #343755;
+    background-color: #343755;
+    box-shadow: 0 0 10px 17px #509eec, 0 0 0 17px #63CEBE;
+}
+.knob.inner {
+    border-radius: 50%;
+}
+.knob.inner .grip {
+    position: absolute;
+    width: 5%;
+    height: 5%;
+    bottom: 2%;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 50%;
+    background: #509eec;
+    box-shadow: 0 0 2px 2px #ffffff;
+}
