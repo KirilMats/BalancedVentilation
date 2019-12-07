@@ -15,7 +15,7 @@
     "redux-form": "^8.2.6",
     "redux-thunk": "^2.3.0"
   },
-  "homepage": "//github.com/KirilMats/KirilMats.github.io.git",
+  "homepage": "//github.com/KirilMats/BalancedVentilation/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
