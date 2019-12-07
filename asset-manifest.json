@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/KirilMats/BalancedVentilation/static/css/main.df5e4d83.chunk.css",
-    "main.js": "/KirilMats/BalancedVentilation/static/js/main.49598f4c.chunk.js",
-    "main.js.map": "/KirilMats/BalancedVentilation/static/js/main.49598f4c.chunk.js.map",
-    "runtime-main.js": "/KirilMats/BalancedVentilation/static/js/runtime-main.7dd65006.js",
-    "runtime-main.js.map": "/KirilMats/BalancedVentilation/static/js/runtime-main.7dd65006.js.map",
-    "static/js/2.e209f045.chunk.js": "/KirilMats/BalancedVentilation/static/js/2.e209f045.chunk.js",
-    "static/js/2.e209f045.chunk.js.map": "/KirilMats/BalancedVentilation/static/js/2.e209f045.chunk.js.map",
+    "main.js": "/KirilMats/BalancedVentilation/static/js/main.ea969a68.chunk.js",
+    "main.js.map": "/KirilMats/BalancedVentilation/static/js/main.ea969a68.chunk.js.map",
+    "runtime-main.js": "/KirilMats/BalancedVentilation/static/js/runtime-main.d0434233.js",
+    "runtime-main.js.map": "/KirilMats/BalancedVentilation/static/js/runtime-main.d0434233.js.map",
+    "static/js/2.cf692714.chunk.js": "/KirilMats/BalancedVentilation/static/js/2.cf692714.chunk.js",
+    "static/js/2.cf692714.chunk.js.map": "/KirilMats/BalancedVentilation/static/js/2.cf692714.chunk.js.map",
     "index.html": "/KirilMats/BalancedVentilation/index.html",
-    "precache-manifest.afc63d51636329d2b0b0438a59432814.js": "/KirilMats/BalancedVentilation/precache-manifest.afc63d51636329d2b0b0438a59432814.js",
+    "precache-manifest.570a9f4eb534f61f06812478c6741dd1.js": "/KirilMats/BalancedVentilation/precache-manifest.570a9f4eb534f61f06812478c6741dd1.js",
     "service-worker.js": "/KirilMats/BalancedVentilation/service-worker.js",
     "static/css/main.df5e4d83.chunk.css.map": "/KirilMats/BalancedVentilation/static/css/main.df5e4d83.chunk.css.map",
     "static/media/index.css": "/KirilMats/BalancedVentilation/static/media/RobotoRegular.eee713d6.eot",
     "static/media/home.svg": "/KirilMats/BalancedVentilation/static/media/home.24dcf903.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7dd65006.js",
-    "static/js/2.e209f045.chunk.js",
+    "static/js/runtime-main.d0434233.js",
+    "static/js/2.cf692714.chunk.js",
     "static/css/main.df5e4d83.chunk.css",
-    "static/js/main.49598f4c.chunk.js"
+    "static/js/main.ea969a68.chunk.js"
   ]
 }

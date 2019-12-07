@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a54ccc389bf606de1a29c8208b202504",
+    "revision": "18f7695ca1140951c54ec1d0ac5303a9",
     "url": "/KirilMats/BalancedVentilation/index.html"
   },
   {
-    "revision": "0b8d997a2cbf5660fcfe",
+    "revision": "39bdbfe5daac85fc0b70",
     "url": "/KirilMats/BalancedVentilation/static/css/main.df5e4d83.chunk.css"
   },
   {
-    "revision": "82029466f6b4b8d21f98",
-    "url": "/KirilMats/BalancedVentilation/static/js/2.e209f045.chunk.js"
+    "revision": "105242b3c6c270b1e737",
+    "url": "/KirilMats/BalancedVentilation/static/js/2.cf692714.chunk.js"
   },
   {
-    "revision": "0b8d997a2cbf5660fcfe",
-    "url": "/KirilMats/BalancedVentilation/static/js/main.49598f4c.chunk.js"
+    "revision": "39bdbfe5daac85fc0b70",
+    "url": "/KirilMats/BalancedVentilation/static/js/main.ea969a68.chunk.js"
   },
   {
-    "revision": "7e527e0f483be4f20e58",
-    "url": "/KirilMats/BalancedVentilation/static/js/runtime-main.7dd65006.js"
+    "revision": "52d1deab07b212d572c9",
+    "url": "/KirilMats/BalancedVentilation/static/js/runtime-main.d0434233.js"
   },
   {
     "revision": "4c66ec4533f5ada1cbfa71dfded61c68",

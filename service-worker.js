@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/KirilMats/BalancedVentilation/precache-manifest.afc63d51636329d2b0b0438a59432814.js"
+  "/KirilMats/BalancedVentilation/precache-manifest.570a9f4eb534f61f06812478c6741dd1.js"
 );
 
 self.addEventListener('message', (event) => {
