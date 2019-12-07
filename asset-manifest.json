@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "//github.com/KirilMats/KirilMats.github.io.git/static/css/main.054a2212.chunk.css",
+    "main.js": "//github.com/KirilMats/KirilMats.github.io.git/static/js/main.36d83fc9.chunk.js",
+    "main.js.map": "//github.com/KirilMats/KirilMats.github.io.git/static/js/main.36d83fc9.chunk.js.map",
+    "runtime-main.js": "//github.com/KirilMats/KirilMats.github.io.git/static/js/runtime-main.5024b0fb.js",
+    "runtime-main.js.map": "//github.com/KirilMats/KirilMats.github.io.git/static/js/runtime-main.5024b0fb.js.map",
+    "static/js/2.e209f045.chunk.js": "//github.com/KirilMats/KirilMats.github.io.git/static/js/2.e209f045.chunk.js",
+    "static/js/2.e209f045.chunk.js.map": "//github.com/KirilMats/KirilMats.github.io.git/static/js/2.e209f045.chunk.js.map",
+    "index.html": "//github.com/KirilMats/KirilMats.github.io.git/index.html",
+    "precache-manifest.fde0d9f3e71538c2107b15b13da20d76.js": "//github.com/KirilMats/KirilMats.github.io.git/precache-manifest.fde0d9f3e71538c2107b15b13da20d76.js",
+    "service-worker.js": "//github.com/KirilMats/KirilMats.github.io.git/service-worker.js",
+    "static/css/main.054a2212.chunk.css.map": "//github.com/KirilMats/KirilMats.github.io.git/static/css/main.054a2212.chunk.css.map",
+    "static/media/index.css": "//github.com/KirilMats/KirilMats.github.io.git/static/media/RobotoRegular.eee713d6.eot",
+    "static/media/home.svg": "//github.com/KirilMats/KirilMats.github.io.git/static/media/home.24dcf903.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5024b0fb.js",
+    "static/js/2.e209f045.chunk.js",
+    "static/css/main.054a2212.chunk.css",
+    "static/js/main.36d83fc9.chunk.js"
+  ]
+}
