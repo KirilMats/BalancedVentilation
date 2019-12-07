@@ -49,35 +49,35 @@ export const togglePeriod = (isWinterPeriod) => ({type: TOGGLE_PERIOD, isWinterP
 export const setModeData = (modeData) => ({type: SET_MODE_DATA, modeData});
 //THUNKS
 export const updatePeriod = (isWinterPeriod) => (dispatch) => {
-	modeAPI.updatePeriod(isWinterPeriod).then( data => {
-		if(data.resultCode === 0) {
+	// modeAPI.updatePeriod(isWinterPeriod).then( data => {
+	// 	if(data.resultCode === 0) {
 				dispatch(togglePeriod(isWinterPeriod));
-		}
-	})
+	// 	}
+	// })
 }
 
 export const updateSystemState = (isSystemOn) => (dispatch) => {
-	modeAPI.updateSystemState(isSystemOn).then( data => {
-		if(data.resultCode === 0) {
+	// modeAPI.updateSystemState(isSystemOn).then( data => {
+	// 	if(data.resultCode === 0) {
 				dispatch(toggleSwitch(isSystemOn));
-		}
-	})
+	// 	}
+	// })
 }
 
 export const updateAutoMode = (isAutoModeOn) => (dispatch) => {
-	modeAPI.updateAutoMode(isAutoModeOn).then( data => {
-		if(data.resultCode === 0) {
+	// modeAPI.updateAutoMode(isAutoModeOn).then( data => {
+	// 	if(data.resultCode === 0) {
 				dispatch(toggleAutoMode(isAutoModeOn));
-		}
-	})
+	// 	}
+	// })
 }
 
 export const getModeData = () => (dispatch) => {
-	modeAPI.getModeData().then(data => {
-		if(data.resultCode === 0) {
-			dispatch(setModeData(data));
-		}
-	})
+	// modeAPI.getModeData().then(data => {
+	// 	if(data.resultCode === 0) {
+	// 		dispatch(setModeData(data));
+	// 	}
+	// })
 }
 
 // export const updateMode = (mode, value) => (dispatch) => {

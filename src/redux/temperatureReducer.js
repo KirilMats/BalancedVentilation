@@ -21,27 +21,27 @@ export const setCurrentTemperature = (currentTemperature) => ({type: SET_CURRENT
 export const setWantedTemperature = (wantedTemperature) => ({type: SET_WANTED_TEMPERATURE, wantedTemperature});
 
 export const updateWantedTemperature = (wantedTemperature) => (dispatch) => {
-	temperatureAPI.updateWantedTemperature(wantedTemperature).then(data => {
-		if(data.resultCode === 0) {
+	// temperatureAPI.updateWantedTemperature(wantedTemperature).then(data => {
+		// if(data.resultCode === 0) {
 			dispatch(setWantedTemperature(wantedTemperature));
-		}
-	})
+	// 	}
+	// })
 }
 
 export const getWantedTemperature = () => (dispatch) => {
-	temperatureAPI.getWantedTemperature().then(data => {
-		if(data.resultCode === 0) {
-			dispatch(setWantedTemperature(data));
-		}
-	})
+	// temperatureAPI.getWantedTemperature().then(data => {
+	// 	if(data.resultCode === 0) {
+	// 		dispatch(setWantedTemperature(data));
+	// 	}
+	// })
 }
 
 export const getCurrentTemperature = () => (dispatch) => {
-	temperatureAPI.getCurrentTemperature().then(data => {
-		if(data.resultCode === 0) {
-			dispatch(setCurrentTemperature(data));
-		}
-	})
+	// temperatureAPI.getCurrentTemperature().then(data => {
+	// 	if(data.resultCode === 0) {
+	// 		dispatch(setCurrentTemperature(data));
+	// 	}
+	// })
 }
 
 export default temperatureReducer;

@@ -67,18 +67,18 @@ export const setElementsData = (elementsData) => ({type: SET_ELEMENTS_DATA, elem
 
 //THUNKS
 export const updateElementStatus = (element, status) => (dispatch) => {
-	elementStatusAPI.updateElementStatus(element, status).then(data => {
-		if(data.resultCode === 0) {
+	// elementStatusAPI.updateElementStatus(element, status).then(data => {
+	// 	if(data.resultCode === 0) {
 			dispatch(toggleElement(element, status));
-		}
-	})
+	// 	}
+	// })
 }
 export const getElementsData = (elementsData) => (dispatch) => {
-	elementStatusAPI.getElementsData(elementsData).then(data => {
-		if(data.resultCode === 0) {
-				dispatch(setElementsData(data));
-		}
-	})
+	// elementStatusAPI.getElementsData(elementsData).then(data => {
+	// 	if(data.resultCode === 0) {
+	// 			dispatch(setElementsData(data));
+	// 	}
+	// })
 }
 
 export default modeReducer;
