@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/KirilMats/BalancedVentilation/static/css/main.df5e4d83.chunk.css",
-    "main.js": "/KirilMats/BalancedVentilation/static/js/main.ea969a68.chunk.js",
-    "main.js.map": "/KirilMats/BalancedVentilation/static/js/main.ea969a68.chunk.js.map",
-    "runtime-main.js": "/KirilMats/BalancedVentilation/static/js/runtime-main.d0434233.js",
-    "runtime-main.js.map": "/KirilMats/BalancedVentilation/static/js/runtime-main.d0434233.js.map",
-    "static/js/2.cf692714.chunk.js": "/KirilMats/BalancedVentilation/static/js/2.cf692714.chunk.js",
-    "static/js/2.cf692714.chunk.js.map": "/KirilMats/BalancedVentilation/static/js/2.cf692714.chunk.js.map",
-    "index.html": "/KirilMats/BalancedVentilation/index.html",
-    "precache-manifest.570a9f4eb534f61f06812478c6741dd1.js": "/KirilMats/BalancedVentilation/precache-manifest.570a9f4eb534f61f06812478c6741dd1.js",
-    "service-worker.js": "/KirilMats/BalancedVentilation/service-worker.js",
-    "static/css/main.df5e4d83.chunk.css.map": "/KirilMats/BalancedVentilation/static/css/main.df5e4d83.chunk.css.map",
-    "static/media/index.css": "/KirilMats/BalancedVentilation/static/media/RobotoRegular.eee713d6.eot",
-    "static/media/home.svg": "/KirilMats/BalancedVentilation/static/media/home.24dcf903.svg"
+    "main.css": "/BalancedVentilation/static/css/main.c48ba6b7.chunk.css",
+    "main.js": "/BalancedVentilation/static/js/main.d2a96fb7.chunk.js",
+    "main.js.map": "/BalancedVentilation/static/js/main.d2a96fb7.chunk.js.map",
+    "runtime-main.js": "/BalancedVentilation/static/js/runtime-main.b4f1840d.js",
+    "runtime-main.js.map": "/BalancedVentilation/static/js/runtime-main.b4f1840d.js.map",
+    "static/js/2.cf692714.chunk.js": "/BalancedVentilation/static/js/2.cf692714.chunk.js",
+    "static/js/2.cf692714.chunk.js.map": "/BalancedVentilation/static/js/2.cf692714.chunk.js.map",
+    "index.html": "/BalancedVentilation/index.html",
+    "precache-manifest.7db643474cb8946eea98d3faa10c7ece.js": "/BalancedVentilation/precache-manifest.7db643474cb8946eea98d3faa10c7ece.js",
+    "service-worker.js": "/BalancedVentilation/service-worker.js",
+    "static/css/main.c48ba6b7.chunk.css.map": "/BalancedVentilation/static/css/main.c48ba6b7.chunk.css.map",
+    "static/media/index.css": "/BalancedVentilation/static/media/RobotoRegular.eee713d6.eot",
+    "static/media/home.svg": "/BalancedVentilation/static/media/home.24dcf903.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d0434233.js",
+    "static/js/runtime-main.b4f1840d.js",
     "static/js/2.cf692714.chunk.js",
-    "static/css/main.df5e4d83.chunk.css",
-    "static/js/main.ea969a68.chunk.js"
+    "static/css/main.c48ba6b7.chunk.css",
+    "static/js/main.d2a96fb7.chunk.js"
   ]
 }
